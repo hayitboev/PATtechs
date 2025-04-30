@@ -13,7 +13,8 @@
     "login": "Giriş Yap",
     "register": "Kayıt Ol",
     "benefits": "Faydalar",
-    "subtitle": "Panel Arıza Tespiti"
+    "subtitle": "Panel Arıza Tespiti",
+    "logo": "PATtechs"
   },
   "services": {
     "title": "Hizmetlerimiz",
@@ -149,7 +150,8 @@
     "ctaButton": "Benzer Sonuçlar Alın",
     "readyTitle": "Bu Faydaları Deneyimlemeye Hazır mısınız?",
     "readyDesc": "Drone ve yapay zeka denetim hizmetlerimizin güneş enerjisi santralinizin performansını nasıl dönüştürebileceğini tartışmak için bugün bizimle iletişime geçin.",
-    "contactButton": "Danışma Talep Edin"
+    "contactButton": "Danışma Talep Edin",
+    "content": "Drone ve yapay zeka destekli denetim hizmetlerimizin geleneksel yöntemlerden nasıl üstün olduğunu ve olağanüstü yatırım getirisi sağladığını keşfedin."
   },
   "contact": {
     "title": "İletişime Geçin",
@@ -160,7 +162,8 @@
     "message": "Mesajınız",
     "send": "Gönder",
     "success": "Mesajınız başarıyla gönderildi",
-    "error": "Bir hata oluştu. Lütfen tekrar deneyin"
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin",
+    "content": "Size nasıl yardımcı olabileceğimizi öğrenin"
   },
   "faultTypes": {
     "title": "Tespit Ettiğimiz Hata Türleri",
@@ -199,7 +202,8 @@
     "vision": {
       "title": "Vizyon",
       "content": "Drone yazılım teknolojilerinde, küresel ölçekte güvenilir, yenilikçi ve sürdürülebilir çözümler sunan lider bir teknoloji şirketi olmak.\n\nGenç mühendislerden oluşan enerjik ekibimizle, sürekli öğrenme ve gelişim kültürünü koruyarak, sektördeki en güncel teknolojilere hızlı uyum sağlıyoruz. Geliştirdiğimiz yazılımlar, yalnızca bugünün ihtiyaçlarını karşılamakla kalmayacak, aynı zamanda geleceğin zorluklarına da akıllı çözümler sunacak şekilde tasarlanıyor.\n\nAmacımız, çevreye duyarlı, kullanıcı odaklı ve yüksek teknolojiye dayalı projeler geliştirerek, hem sektörümüze hem de toplumumuza değer katmak. Genç mühendislerimizin dinamizmi ve yenilikçi bakış açısıyla, dünya çapında teknoloji alanında söz sahibi bir marka olmayı hedefliyoruz."
-    }
+    },
+    "content": "Genç ve dinamik bir ekip olarak, drone yazılım teknolojilerinde yenilikçi ve güvenilir çözümler üretiyoruz. Otonom uçuş sistemleri ve veri işleme yazılımlarımızla, tarım, çevre yönetimi, endüstri ve güvenlik gibi kritik alanlarda daha verimli ve sürdürülebilir çalışmalar yapılmasına katkı sağlıyoruz."
   },
   "contactPage": {
     "title": "İletişime Geçin",

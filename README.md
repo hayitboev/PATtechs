@@ -1,64 +1,64 @@
-# PATtechs Solar Panel Inspection
+# PATtechs - Professional Association of Technicians
 
-A modern web application for solar panel inspection using AI and drone technology.
+A modern web application for managing technician associations, built with Next.js 14, TypeScript, and Tailwind CSS.
 
 ## Features
 
-- AI-powered fault detection
-- Drone-based inspection
-- Real-time analysis
-- Detailed reporting
-- Multi-language support (Turkish/English)
+- 🔐 Secure authentication with JWT
+- 📱 Responsive design
+- 🎨 Modern UI with Tailwind CSS
+- 🔄 Real-time updates
+- 📊 Dashboard for members
+- 📝 Blog system
+- 📅 Event management
 
-## Technologies Used
+## Getting Started
 
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-- i18next
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/PATtechs.git
+cd PATtechs
+```
 
-## Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
-
-## Installation
-
-1. Clone the repository
 2. Install dependencies:
 ```bash
 npm install
 ```
 
-## Development
+3. Set up environment variables:
+Create a `.env.local` file in the root directory with the following variables:
+```env
+NEXT_PUBLIC_API_URL=http://localhost:3000/api
+JWT_SECRET=your_jwt_secret_here
+```
 
-To start the development server:
-
+4. Run the development server:
 ```bash
 npm run dev
 ```
 
-The application will be available at `http://localhost:5173`
-
-## Building for Production
-
-To create a production build:
-
-```bash
-npm run build
-```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Project Structure
 
-- `src/` - Source code
-  - `components/` - Reusable React components
-  - `pages/` - Page components
-  - `App.tsx` - Main application component
-  - `main.tsx` - Application entry point
+```
+src/
+├── app/              # Next.js app directory
+├── components/       # React components
+├── contexts/        # React contexts
+├── lib/            # Utility functions
+├── types/          # TypeScript types
+└── styles/         # Global styles
+```
 
-## Scripts
+## Contributing
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

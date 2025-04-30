@@ -7,15 +7,75 @@
   },
   "nav": {
     "home": "Home",
-    "about": "About",
     "services": "Services",
-    "benefits": "Benefits",
+    "about": "About",
     "contact": "Contact",
     "login": "Login",
     "register": "Register",
-    "subtitle": "Solar Panel Inspection"
+    "benefits": "Benefits",
+    "subtitle": "Panel Fault Detection",
+    "logo": "PATtechs"
   },
- "benefits": {
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solar panel inspection and fault detection services with drone and AI support",
+    "technologyTitle": "Technology-Focused Inspection",
+    "technologyDesc1": "At PATtechs, we revolutionize solar panel fault detection and resolution by combining the latest drone technology with advanced artificial intelligence.",
+    "technologyDesc2": "Our integrated approach provides comprehensive coverage, exceptional accuracy, and actionable insights that help maximize your solar power plant's performance and lifespan.",
+    "droneImageAlt": "Drone inspecting solar panels",
+    "advanced": "Advanced",
+    "advancedDesc": "Latest technology solutions for maximum efficiency",
+    "ctaTitle": "Ready to Optimize Your Solar Power Plant?",
+    "ctaDesc": "Contact us today and start maximizing your energy production.",
+    "ctaButton": "Get a Quote",
+    "droneInspection": "Drone Inspection",
+    "droneInspectionDesc": "Our state-of-the-art drones conduct comprehensive aerial surveys of solar facilities without disrupting operations and capture high-resolution images from multiple angles.",
+    "droneInspectionFeature1": "Complete coverage of large facilities in minimum time",
+    "droneInspectionFeature2": "High-resolution imaging from multiple angles",
+    "droneInspectionFeature3": "Safe operation around sensitive equipment",
+    "droneInspectionFeature4": "Minimum disruption to plant operations",
+    "visualAnalysis": "Visual Analysis",
+    "visualAnalysisDesc": "Advanced camera systems capture detailed images of solar panels, detecting physical defects, cracks, and other visible issues that affect performance.",
+    "visualAnalysisFeature1": "Detection of physical panel damage",
+    "visualAnalysisFeature2": "Identification of surface defects",
+    "visualAnalysisFeature3": "Analysis of panel color changes",
+    "visualAnalysisFeature4": "Assessment of mounting system integrity",
+    "aiAnalysis": "AI Analysis",
+    "aiAnalysisDesc": "Our specialized AI algorithms analyze captured data to identify, classify, and prioritize various panel faults with exceptional accuracy.",
+    "aiAnalysisFeature1": "Automatic detection of multiple fault types",
+    "aiAnalysisFeature2": "Pattern recognition across thousands of panels",
+    "aiAnalysisFeature3": "Classification of detected issues by severity",
+    "aiAnalysisFeature4": "Continuous learning and improvement",
+    "detailedReporting": "Detailed Reporting",
+    "detailedReportingDesc": "Comprehensive reports provide actionable insights, maintenance recommendations, and performance optimization strategies.",
+    "detailedReportingFeature1": "Prioritized maintenance recommendations",
+    "detailedReportingFeature2": "Performance impact analysis",
+    "detailedReportingFeature3": "Cost-benefit analysis for repairs",
+    "detailedReportingFeature4": "Historical tracking of panel conditions",
+    "maintenancePlanning": "Maintenance Planning",
+    "maintenancePlanningDesc": "We help you develop and implement maintenance programs based on inspection findings to maximize system performance.",
+    "maintenancePlanningFeature1": "Customized maintenance schedules",
+    "maintenancePlanningFeature2": "Resource allocation optimization",
+    "maintenancePlanningFeature3": "Preventive maintenance planning",
+    "maintenancePlanningFeature4": "Performance improvement tracking"
+  },
+  "process": {
+    "title": "Our Process",
+    "subtitle": "From inspection planning to actionable maintenance recommendations",
+    "step1": "Initial Assessment",
+    "step1Desc": "We evaluate your solar facility and create a customized inspection plan",
+    "step1ImageAlt": "Initial assessment meeting",
+    "step2": "High-Resolution Imaging",
+    "step2Desc": "Our drones capture detailed images of each panel from multiple angles",
+    "step2ImageAlt": "Inspection planning",
+    "step3": "AI Analysis",
+    "step3Desc": "Advanced algorithms detect and classify panel faults with high accuracy",
+    "step3ImageAlt": "Drone operation",
+    "step4": "Detailed Report",
+    "step4Desc": "Receive comprehensive reports with prioritized maintenance recommendations",
+    "step4ImageAlt": "AI analysis"
+  },
+  "benefits": {
     "title": "Benefits & Advantages",
     "subtitle": "Discover how our drone and AI-powered inspection services outperform traditional methods and deliver exceptional ROI.",
     "approachTitle": "A Transformative Approach",
@@ -90,7 +150,8 @@
     "ctaButton": "Get Similar Results",
     "readyTitle": "Ready to Experience These Benefits?",
     "readyDesc": "Contact us today to discuss how our drone and AI inspection services can transform your solar power plant's performance.",
-    "contactButton": "Request a Consultation"
+    "contactButton": "Request a Consultation",
+    "content": "Discover how our drone and AI-powered inspection services outperform traditional methods and deliver exceptional ROI."
   },
   "contact": {
     "title": "Contact Us",
@@ -101,18 +162,8 @@
     "message": "Your Message",
     "send": "Send",
     "success": "Your message has been sent successfully",
-    "error": "An error occurred. Please try again"
-  },
-  "process": {
-    "title": "Our Process",
-    "step1": "Inspection Planning",
-    "step1Desc": "Drone flight plan and inspection area determination",
-    "step2": "Data Collection",
-    "step2Desc": "High-resolution thermal and visual data collection",
-    "step3": "AI Analysis",
-    "step3Desc": "Fault detection and analysis with artificial intelligence",
-    "step4": "Reporting",
-    "step4Desc": "Detailed report and recommendations presentation"
+    "error": "An error occurred. Please try again",
+    "content": "Learn how we can help you"
   },
   "faultTypes": {
     "title": "Fault Types We Detect",
@@ -131,15 +182,14 @@
     "readLess": "Show Less"
   },
   "footer": {
+    "description": "Leading technology solutions in solar panel inspection and fault detection",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactUs": "Contact Us",
     "rights": "All rights reserved",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Use",
-    "contact": "Contact",
-    "social": "Social Media",
-    "newsletter": "Subscribe to Our Newsletter",
-    "subscribe": "Subscribe",
     "address": "123 Solar Street, Renewable City, RC 12345",
     "phone": "+90 546 783 59 31",
+    "contact": "Contact",
     "email": "info@pattechs.com",
     "followUs": "Follow Us"
   },
@@ -152,7 +202,8 @@
     "vision": {
       "title": "Vision",
       "content": "To be a leading technology company offering reliable, innovative, and sustainable solutions in drone software technologies on a global scale.\n\nWith our energetic team of young engineers, we quickly adapt to the latest technologies in the industry while maintaining a culture of continuous learning and development. Our developed software is designed not only to meet today's needs but also to provide intelligent solutions to future challenges.\n\nOur goal is to add value to both our industry and society by developing environmentally conscious, user-focused, and high-tech projects. With the dynamism and innovative perspective of our young engineers, we aim to become a globally recognized brand in the technology sector."
-    }
+    },
+    "content": "As a young and dynamic team, we produce innovative and reliable solutions in drone software technologies. With our autonomous flight systems and data processing software, we contribute to more efficient and sustainable operations in critical areas such as agriculture, environmental management, industry, and security."
   },
   "contactPage": {
     "title": "Contact Us",
